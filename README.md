@@ -33,12 +33,12 @@ Follow these simple steps to install the Sharingan Plymouth theme on your Linux 
 
 3. Copy the theme folder to Plymouth themes directory:
    ```bash
-   sudo cp -r sharingan /usr/share/plymouth/themes/
+   sudo cp -r sg /usr/share/plymouth/themes/
    ```
 
 4. Set Sharingan as your Plymouth theme:
    ```bash
-   sudo plymouth-set-default-theme -R sharingan
+   sudo plymouth-set-default-theme -R sg
    ```
 
 5. Update initramfs:
