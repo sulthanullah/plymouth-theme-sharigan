@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Sharingan
+Description=display Sharingan
+Comment=created By Sulthanullah
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/sg
+ScriptFile=/usr/share/plymouth/themes/sg/sg.script
